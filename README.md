@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h2> Hi, I'm Joaquim ! </h2>
-<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" width="230">
+<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" width="190">
 <p><em>Estudante de Sistemas de Informação - Faculdade UNINASSAU</a>
  </em></p>
  
@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniojoaquimdev/)
 
 <details align="left">
-  <summary><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
+  <summary><b>GitHub Stats...</b></i></summary>
 <p align = "center">
 <br>
 <center>
