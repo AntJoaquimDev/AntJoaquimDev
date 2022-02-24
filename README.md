@@ -9,9 +9,10 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AntJoaquimDev&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntJoaquimDev&layout=compact&langs_count=7&theme=dark"/> 
 </div>
- 
+<br>
+
 <p align="left">
-  Linguagens e Habilidades: <br>
+   Linguagens e Habilidades: <br>
   <br>
   <img align="center" alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,7 +33,7 @@
 </p>
 
 <p align="left">
-   Contato ⤵️
+   <h3>Contato ⤵️ </h3>
 </p>
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:a.joaquimsfilho@gmail.com)
