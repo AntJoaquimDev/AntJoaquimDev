@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h2> Olá! Me chamo Ant Joaquim, desenvolvedor Java Back-end. e  App MObile com Flutter </h2>
+<h2> Olá! Me chamo Ant Joaquim, desenvolvedor Java Back-end. e  App Mobile com Flutter </h2>
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" width="190">
 <p><em>Estudante de Sistemas de Informação - Faculdade UNINASSAU</a>
  </em></p>
